@@ -11,11 +11,17 @@ Currently, this repository includes the following privacy notices:
 - [index.html](https://github.com/aalto-speech/privacy-notices/blob/main/index.html)  
   Landing page that lists links to all privacy notices in this repository.
 
+- [saysuomi-privacy.html](https://github.com/aalto-speech/privacy-notices/blob/main/saysuomi-privacy.html)  
+  Privacy policy for the SaySuomi mobile application.
+
 - `saysvenska-privacy.html`  
   Privacy policy for the SaySvenska mobile application. (Not yet in this repo)
 
 - [elfa-privacy.html](https://github.com/aalto-speech/privacy-notices/blob/main/elfa-privacy.html)  
   Privacy notice describing how the ELFA corpus is used in research by the Aalto ASR research group.    
+
+- [donate-speech-privacy.html](https://github.com/aalto-speech/privacy-notices/blob/main/donate-speech-privacy.html)  
+  Privacy notice describing how the Donate Speech (Lahjoita puhetta) corpus is used in research by the Aalto ASR research group.
 
 Additional notices for other apps or projects can be added as separate `.html` files and linked from `index.html`.
 
